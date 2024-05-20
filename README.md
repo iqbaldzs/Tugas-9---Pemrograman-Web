@@ -1,2 +1,3 @@
 IQBAL DZULFIQAR SIROJUDDIN (2241035)
+
                                       -PRAKTIKUM PEMROGRAMAN GRAFIS-
